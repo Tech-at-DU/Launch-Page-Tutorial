@@ -1,7 +1,4 @@
----
-title: "Get started with writing tutorials!"
-slug: getting-started
----
+# Get started with writing tutorials!
 
 **The above title becomes the tutorials first header**, so an introduction to the tutorial page should be given here **before** any more headers are created.
 
@@ -183,7 +180,7 @@ Use quote boxes to include a quote.
 >
 > - Steve Jobs
 
-## Info box
+<!-- ## Info box
 
 Use info boxes to draw a students attention to an important concept.
 
@@ -203,22 +200,32 @@ import ConvenienceKit
 >
 > This is still part of the box! Remember, code blocks need an empty line above them. In the case of code blocks inside of boxes, the line before and after a code block should only contain a `>` character.
 
-This is no longer part of the box.
+This is no longer part of the box. -->
 
 ## Solution box
 
 Use solution boxes to keep a solution hidden until the student hovers over it. These should be placed after a student has been asked to try implementing something themselves.
 
-> [solution]
+Here is what you have to do:
+
+```html
+<details>
+<summary>Solution</summary>
+<br>
+This content is hidden until the user clicks on the "Solution" text.
+</details>
+```
+
+<!-- > [solution]
 > This content is hidden until the user hovers over the box. Check it out with ms-markdown-preview!
 >
 ```
 import ConvenienceKit
 ```
 
-This is not part of the box.
+This is not part of the box. -->
 
-## Stretch Challenge box
+<!-- ## Stretch Challenge box
 
 Use challenge boxes should be used for additional features the user might want to implement. Make sure to give it a header of **Stretch Challenge**, as plain "challenges" have a different meaning at Make School.
 
@@ -236,11 +243,11 @@ An example below, but you don't need to use the three tick symbols:
 > The game could use some social integration as well!
 
 This is not part of the box.
-```
+``` -->
 
-## Boxes followed by boxes
+<!-- ## Boxes followed by boxes -->
 
-### This will not render correctly
+<!-- ### This will not render correctly
 
 ```
 > [action]
@@ -248,21 +255,21 @@ This is not part of the box.
 
 > [info]
 > The renderer will treat these as the same box :(
-```
+``` -->
 
-### This will render correctly
+<!-- ### This will render correctly
 
 > [action]
-> Try viewing this with ms-markdown-preview!
+> Try viewing this with ms-markdown-preview! -->
 
 <!--  -->
 
-> [info]
+<!-- > [info]
 > Adding an empty comment forces the renderer to treat these as separate boxes :D
 >
-> The comment needs an empty line above and below it!
+> The comment needs an empty line above and below it! -->
 
-## Code blocks within action highlight boxes
+<!-- ## Code blocks within action highlight boxes
 
 > [info]
 > Fenced code blocks exit prematurely if they contain an empty line while within an action highlight box. **To fix this, you will need to include a `>` on each empty line within the fenced code block!**
@@ -275,9 +282,9 @@ func doesNothing() {
 }
 ```
 >
-> This will not render correctly without the `>` on empty lines within the fenced code block.
+> This will not render correctly without the `>` on empty lines within the fenced code block. -->
 
-## Ordered/Unordered lists within action highlight boxes
+<!-- ## Ordered/Unordered lists within action highlight boxes
 
 You need to provide a new line with `>` before starting a list. See the examples below:
 
@@ -286,18 +293,18 @@ You need to provide a new line with `>` before starting a list. See the examples
 >
 > - item 1
 > - item 2
-> - item 3
+> - item 3 -->
 
 <!-- -->
 
->[info]
+<!-- >[info]
 > Below is a list:
 >
 > 1. item 1
 > 1. item 2
-> 1. item 3
+> 1. item 3 -->
 
-## Syntax Formatting Within Code Blocks
+<!-- ## Syntax Formatting Within Code Blocks
 
 We have two new tags that can be added into code blocks to give you some control over formatting.
 
@@ -317,4 +324,4 @@ print("Hello, Make School!")
 [bold]if bold {
   print("It displays bold like this")
 }[/bold]
-```
+``` -->

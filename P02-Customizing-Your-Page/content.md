@@ -1,7 +1,4 @@
----
-title: "Customizing Your Page"
-slug: customizing-your-page
----
+# Customizing Your Page
 
 Now you have the baseline of your Launch Page, but nobody likes something so generic! Let's spice things up.
 
@@ -58,7 +55,6 @@ Now we can link it in the `<head>` tag after both bootstrap and the theme.
 </head>
 ```
 
->[info]
 >If you put your styles ABOVE bootstrap or the theme, they will overwrite your styles, but if you put them BELOW then your styles overwrite them! Which is what we want.
 
 To  test if your styles page is linked properly, add this crazy style:
@@ -129,3 +125,7 @@ Change the `<title></title>` tag to say something else, e.g. "Launch Page":
 ```
 
 The title tag also is displayed in the tab of the browser. Can you add an emoji here?
+
+# Next Steps
+
+Click [here](../P03-Images-And-Videos/content.md) to move onto the next section about adding some images and videos.

@@ -1,7 +1,4 @@
----
-title: "Adding a CSS Framework"
-slug: adding-a-css-framework
----
+# Adding a CSS Framework
 
 By the end of this chapter you will have a classic launch page for your product built that looks like this:
 
@@ -11,7 +8,6 @@ We could code the whole thing up ourselves using our own CSS, or we can do what 
 
 In this case we'll be using the most popular CSS framework on the internet **Bootstrap 4**.
 
->[info]
 >Thoughtout this tutorial you will need to read and review the [Boostrap 4 documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/) to succeed. If you get stuck, double check the tutorial, then look at the docs and try to figure things out for yourself for at least 10-20 min before asking a friend or instructor.
 
 # Installing Emmet
@@ -76,11 +72,9 @@ Move our comments into the `<body></body>` tag and your `index.html` should look
 </html>
 ```
 
->[info]
 >Watch out for **INDENTATION**. It is important to always keep everything properly indented. The HTML will work if the indentation is bad, but it will be VERY HARD for you to see bugs and problems. So always keep your indentation pristine.
 
 If you refresh your browser, you shouldn't see much change here. We'll be adding more to this now!
-
 
 # Adding Bootstrap 4
 
@@ -266,7 +260,6 @@ Footers can be quite large, but we are just going to keep it simple. We can use 
 
 Its good to make footers a dark color because it sort of signifies that the page is over.
 
->[info]
 >That little `&copy;` is HTML's way of writing the copyright symbol: ©.
 
 You're page should look similar to this:
@@ -275,4 +268,6 @@ You're page should look similar to this:
 
 If it does, great work! Otherwise go back and troubleshoot until it is pixel perfect.
 
-Onward!
+# Next Steps
+
+Click [here](../P02-Customizing-Your-Page/content.md) to move onto the next section about adding some customization to your page.

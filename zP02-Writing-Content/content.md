@@ -1,7 +1,4 @@
----
-title: "Writing Content"
-slug: writing-content
----
+# Writing Content
 
 Each tutorial is going to be different in terms of how it's broken up, what the content looks like, etc. But with that, there should be some consistencies that exist within every chapter of a tutorial. The following sections outline specific sections and general concepts to include with every tutorial.
 
@@ -46,7 +43,6 @@ This should be one of the first sections of a tutorial. An example is below for 
 1. Associate posts and comments with their author
 1. Make comments on comments
 1. Vote a post up or down
-
 
 # Product So Far
 

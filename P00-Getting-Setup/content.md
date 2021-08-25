@@ -1,7 +1,4 @@
----
-title: "Starting the Project"
-slug: starting-the-project
----
+# Starting the Project
 
 Imagine you are making a new company, could be a cupcake factory, could be a tech startup that sells elephants to petting zoos. Up to you! In either case, one of the top to-do's on our list is to make a **Launch Page**—a preliminary website that introduces an idea to the world. Consider it like a **digital elevator pitch**.
 
@@ -15,15 +12,13 @@ Where do we write code?
 
 The answer is a **Text Editor**. There are many popular editors, but we're going to use Atom.
 
->[action]
->Navigate your browser to https://www.atom.io and download and install the Atom Text Editor.
+Navigate your browser to https://www.atom.io and download and install the Atom Text Editor.
 
 Atom is a wildly popular text editor. It is free and open source and it is created and maintained by GitHub.com, one of the most popular websites for software engineers.
 
 # Organizing Your Projects
 
->[action]
->If you haven't already, create a new folder on your desktop called `code`.
+If you haven't already, create a new folder on your desktop called `code`.
 
 This folder is where you are going to put every new coding project you do from now on. Each one in their own folder. This way you will never misplace any code, and you will always know where to start.
 
@@ -82,4 +77,6 @@ We can use **Comments** to give us some signposts in our code and make a bit of 
 
 ```
 
-Onward!
+# Next Steps
+
+Great! Click [here](../P01-Adding-A-Css-Framework/content.md) to move onto the next section about adding a CSS framework.

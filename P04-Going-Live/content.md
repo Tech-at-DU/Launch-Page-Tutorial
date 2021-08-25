@@ -1,7 +1,4 @@
----
-title: "Going Live"
-slug: going-live
----
+# Going Live
 
 Now we're going to use **GitHub Pages** to launch your site online so you can show it to your family and friends (and turn it in for credit!).
 
@@ -50,7 +47,6 @@ https://alabaster-kangaroo.github.io/launch-page
 ```
 
 Navigate your browser to it.
-
 
 # Making Changes
 

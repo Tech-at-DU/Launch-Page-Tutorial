@@ -1,7 +1,4 @@
----
-title: "Images and Videos"
-slug: images-and-videos
----
+# Images and Videos
 
 Let's continue customizing!
 
@@ -105,11 +102,9 @@ If we want to embed a video and make it also scale to the size of its parent ele
 
 When adding YouTube videos, you want to grab the **embedded** url, and not the regular one that you see when watching a video.
 
-> [action]
->
-> Watch this short video on how to get the embed link from a YouTube Video:
->
-> ![ms-video](assets/embed_youtube.mov)
+Watch this short video on how to get the embed link from a YouTube Video:
+
+![ms-video](assets/embed_youtube.mov)
 
 Try commenting out your image and put this instead. Remember to replace the youtube link with the video you'd like to use.
 
@@ -119,4 +114,6 @@ Try commenting out your image and put this instead. Remember to replace the yout
 </div>
 ```
 
-Onward!
+# Next Steps
+
+Click [here](../P04-Going-Live/content.md) to move onto the next section about going live.

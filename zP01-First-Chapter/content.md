@@ -1,7 +1,4 @@
----
-title: "Writing the First Chapter"
-slug: first-chapter
----
+# Writing the First Chapter
 
 Make School tutorials should have a consistent flow, which starts by stating all expectations of a tutorial upfront in the first chapter. This is a short guide to structuring the first chapter of a tutorial so that students are fully aware of what they're building, why they're doing it, what they need to know before diving in, and a reminder of tools to use.
 
@@ -49,8 +46,7 @@ By the end of this tutorial, you should be able to...
 1. Learning Outcome 7
 1. Learning Outcome 8
 
->[action]
-> Take a moment to write down these learning outcomes and reflect on them. Make sure that as you progress through the tutorial that you're furthering your understanding, and that by the end, you have completed all of the outcomes.
+Take a moment to write down these learning outcomes and reflect on them. Make sure that as you progress through the tutorial that you're furthering your understanding, and that by the end, you have completed all of the outcomes.
 ```
 
 # User Stories/Technical Planning
@@ -122,9 +118,8 @@ The following can be used for the first chapter to make sure students set up Git
 
 Set up your repo!
 
->[action]
-> Make your first commit
->
+Make your first commit
+
 \```bash
 $ git init
 $ git add .
@@ -133,9 +128,8 @@ $ git commit -m 'project init'
 
 Now Go to GitHub and create a public repository called REPO-NAME, and now associate it as a remote for your local git project and then push to it.
 
->[action]
-> Push it!
->
+Push it!
+
 \```bash
 $ git remote add origin GITHUB-REPO-URL
 $ git push origin master -u
@@ -152,18 +146,16 @@ Remember to update the commit message, update the ALL_CAPS_WORDS to something re
 
 Set up your repo!
 
-> [action]
-> Go to the [starter repo](LINK_HERE_TO_REPO) and clone the repo locally
->
+Go to the [starter repo](LINK_HERE_TO_REPO) and clone the repo locally
+
 \```bash
 $ git clone [URL to your starter repo]
 \```
 
 Now we need to change the remote so that you can commit/push/pull the changes you make to your own repo. **It is very important you do the below steps in order to get everything working properly.**
 
-> [action]
-> Go to GitHub and create an _empty_, public repository called REPO-NAME, and now associate it as a remote for your cloned starter code, and then push to it.
->
+Go to GitHub and create an _empty_, public repository called REPO-NAME, and now associate it as a remote for your cloned starter code, and then push to it.
+
 \```bash
 $ cd NAME_OF_REPO
 # can grab the url from the "Clone or download" link on your repo page
