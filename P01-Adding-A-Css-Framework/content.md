@@ -10,6 +10,9 @@ In this case we'll be using the most popular CSS framework on the internet **Boo
 
 >Thoughtout this tutorial you will need to read and review the [Boostrap 4 documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/) to succeed. If you get stuck, double check the tutorial, then look at the docs and try to figure things out for yourself for at least 10-20 min before asking a friend or instructor.
 
+# Bootstrap Overview
+Watch this [20 minute demo](https://www.youtube.com/watch?v=eow125xV5-c) of Bootstrap. It will give you a visual sense of the framework, how to use it, and the code behind it. You'll have a much easier time making progress after digesting this mental model.
+
 # Installing Emmet
 
 In order to accelerate our writing of HTML we can install an Atom **Package** that lets us to go faster.
