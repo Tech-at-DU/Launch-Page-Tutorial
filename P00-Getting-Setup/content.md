@@ -12,7 +12,7 @@ Where do we write code?
 
 The answer is a **Text Editor**. There are many popular editors, but we're going to use Atom.
 
-Navigate your browser to https://www.atom.io and download and install the Atom Text Editor.
+Navigate your browser to https://code.visualstudio.com/download and download and install the Atom Text Editor.
 
 Atom is a wildly popular text editor. It is free and open source and it is created and maintained by GitHub.com, one of the most popular websites for software engineers.
 
