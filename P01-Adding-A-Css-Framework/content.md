@@ -79,9 +79,10 @@ Move our comments into the `<body></body>` tag and your `index.html` should look
 
 If you refresh your browser, you shouldn't see much change here. We'll be adding more to this now!
 
-# Adding Bootstrap 4
+# Adding Bootstrap
+Follow the instructions here to add Bootstrap to your project: https://getbootstrap.com/docs/5.3/getting-started/download/
 
-There are a few ways to add Bootstrap 4 to our project, but we're going to use the easiest. We can simply add a link to Boostrap 4 in our `<head></head>` tag like this:
+There are a few ways to add Bootstrap to our project, but we're going to use the easiest. We can simply add a link to Boostrap in our `<head></head>` tag like this:
 
 ```html
 <head>
@@ -90,7 +91,8 @@ There are a few ways to add Bootstrap 4 to our project, but we're going to use t
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
 
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </head>
 ```
 
