@@ -6,7 +6,7 @@ Let's get started.
 
 The first thing to do is to make sure we have a **Text Editor** installed on our computers. Then we have make a new project folder and get our initial `index.html` file created and verify that it is working.
 
-# Installing Text Editor Atom
+# Installing Text Editor VSCode
 
 Where do we write code?
 
@@ -14,7 +14,7 @@ The answer is a **Text Editor**. There are many popular editors, but we're going
 
 Navigate your browser to https://code.visualstudio.com/download and download and install the VSCode Text Editor.
 
-VSCode is a wildly popular text editor. It is free and open source and it is created and maintained by GitHub.com, one of the most popular websites for software engineers.
+VSCode is a wildly popular text editor. It is one of the most popular tools for software engineers.
 
 # Organizing Your Projects
 
