@@ -10,11 +10,11 @@ The first thing to do is to make sure we have a **Text Editor** installed on our
 
 Where do we write code?
 
-The answer is a **Text Editor**. There are many popular editors, but we're going to use Atom.
+The answer is a **Text Editor**. There are many popular editors, but we're going to use Visual Studio Code.
 
-Navigate your browser to https://code.visualstudio.com/download and download and install the Atom Text Editor.
+Navigate your browser to https://code.visualstudio.com/download and download and install the VSCode Text Editor.
 
-Atom is a wildly popular text editor. It is free and open source and it is created and maintained by GitHub.com, one of the most popular websites for software engineers.
+VSCode is a wildly popular text editor. It is free and open source and it is created and maintained by GitHub.com, one of the most popular websites for software engineers.
 
 # Organizing Your Projects
 
